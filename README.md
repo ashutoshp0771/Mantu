@@ -1,3 +1,3 @@
 # Mantu
 
-[google.com]
+ [Design](docs/design-st.md)
